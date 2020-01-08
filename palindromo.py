@@ -1,3 +1,4 @@
+#Esta versión ya incluye el último merge
 c='c'
 while (c != 's'):
     print("Palindromo")
