@@ -1,3 +1,4 @@
 # palindromo
 Detecta la existencia de un palíndromo
-Cambio
+
+Cambios desde otrolugar desconocido
