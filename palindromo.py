@@ -1,6 +1,7 @@
 c='c'
 while (c != 's'):
-    palabra=input("Ingresa una palabra")
+    print("Palindromo")
+    palabra=input("Ingresa una palabra: ")
     palabra=palabra.replace(" ","")
     y=palabra.isalpha()
     if y:
@@ -11,5 +12,3 @@ while (c != 's'):
         else:
             print("Negativo")
     c=input("¿Deseas salir?, presiona la letra s: ")
-  
-    
